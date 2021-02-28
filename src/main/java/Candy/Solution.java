@@ -20,5 +20,6 @@ public class Solution {
             }
             pre = t;
         }
+        return 1;
     }
 }
